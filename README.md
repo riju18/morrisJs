@@ -1,5 +1,5 @@
 # morrisJs
-# Database:
+# mysql Database:
      db name: morrisjs
      host   : localhost
      user   : root
